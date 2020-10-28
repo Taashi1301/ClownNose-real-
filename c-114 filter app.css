@@ -1,0 +1,24 @@
+body{
+    background-image: url("https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.pixelstalk.net%2Fwp-content%2Fuploads%2F2016%2F05%2FReally-Cool-HD-Wallpaper.jpg&f=1&nofb=1");
+    background-position: center;
+    background-size: cover;
+    font-family: 'Staatliches', cursive;
+}
+#button{
+    background: linear-gradient(orange, blue);
+    color: white;
+    padding: 10px;
+    border: 2px yellowgreen solid;
+    border-radius: 30px;
+    font-size: 20px;
+}
+h1{
+    color: red;
+    margin-top: 50px;
+}
+canvas{
+    margin-top: 160px;
+    box-shadow:10px 10px 10px red;
+    border: 3px yellowgreen groove;
+    border-radius: 30px;
+}
